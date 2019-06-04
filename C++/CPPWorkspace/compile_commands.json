@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Users\\Pikachuuuuu\\udemy\\C++\\CPPWorkspace\\Test1\\main.cpp",
+  "directory": "C:\\Users\\Pikachuuuuu\\udemy\\C++\\CPPWorkspace\\Test1",
+  "command": "clang  -c C:\\Users\\Pikachuuuuu\\udemy\\C++\\CPPWorkspace\\Test1\\main.cpp -o C:\\Users\\Pikachuuuuu\\udemy\\C++\\CPPWorkspace\\Test1\\main.cpp.o -target x86_64-pc-windows-gnu -I. -I.  -std=c++17  -std=c++14  -Wall  -g  -O0  -std=c++17  -std=c++14  -Wall"
+ }]
